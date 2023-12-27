@@ -16,7 +16,7 @@
 - 🗓️ 14/12/2004  
   
 
--  🌻I'm a passionate first-year data engineering student with a curiosity for turning raw data into meaningful insights.   
+-  🌻 I'm a passionate first-year data engineering student with a curiosity for turning raw data into meaningful insights.   
   
 
 - 🌱 I’m currently learning C++ Programming Languages  
