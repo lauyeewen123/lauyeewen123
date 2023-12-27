@@ -1,12 +1,12 @@
-<div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGptYnVybmozc3o4Y3J5eHM4aDV1eWhzMmV4cHJ6Z3lyb3c0ZXY4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DQH4wsflnVBSfPewTV/giphy.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 # <div align="center">Welcome Everyone!!! 🤗😎</div>  
   
 
-##### I'm Yee Wen, a first-year student studying in Bachelor of Computer Science in Data Engineering   👨‍💻 🚀😆  
+<div align="center">
+<img src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-224.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+#### <div align="center">I'm Yee Wen, a first-year student studying in Bachelor of Computer Science in Data Engineering   👨‍💻 🚀😆</div>  
   
 
 🔍 About me: 
@@ -26,9 +26,10 @@
   
 
 - ⚡ Fun fact: People called me mushroom🍄 
-I could use a little something sweet to perk me up 🍪🧋🥨🍰🍫
-  
-  
+I could use a little something sweet to perk me up 🍪🧋🍰🍫
+
+   
+- 📫 How to reach me **lauyeewen@graduate.utm.my**
 
 <br/>  
 
@@ -113,8 +114,12 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
+<div align="center"></div>
+<br />
 
-- 📫 How to reach me **lauyeewen@graduate.utm.my**
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 
 
 
