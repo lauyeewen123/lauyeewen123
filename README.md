@@ -9,14 +9,12 @@
 #### <div align="center">I'm Yee Wen, a first-year student studying in Bachelor of Computer Science in Data Engineering   👨‍💻 🚀😆</div>  
   
 
-🔍 About me: 
-                     
-  
+🔍 About me:          
 
 - 🗓️ 14/12/2004  
   
 
--  🌻I'm a passionate first-year data engineering student with a curiosity for turning raw data into meaningful insights.   
+-  🌻 I'm a passionate first-year data engineering student with a curiosity for turning raw data into meaningful insights.   
   
 
 - 🌱 I’m currently learning C++ Programming Languages  
