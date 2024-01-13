@@ -99,8 +99,8 @@ Check out [here](https://lauyeewen123.github.io/) !!
 ![Profile Views](https://komarev.com/ghpvc/?username=lauyeewen123&&style=flat-square)
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lauyeewen123&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Github Stats
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lauyeewen123&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 ## Connect with me  
 <div align="center">
@@ -120,4 +120,7 @@ Check out [here](https://lauyeewen123.github.io/) !!
 </body>
 
 </html>
+
+
+
 
