@@ -44,6 +44,58 @@
 <br/>  
 
 
+
+
+## 📘 Education
+
+## Secondary Education: Datuk Bendahara Vocational School (2017-2022)
+
+- **SPM 2021:** 9A (4A+, 4A, 1A-), 1B+
+- **CEFR Level:** C1
+
+## College Studies: Melaka Matriculation College (2022-2023)
+
+- **CGPA:** 4.0
+- **MUET Level:** Level 4.0
+  
+<br/>  
+
+## 🚀 Co-curricular Involvement
+
+## Datuk Bendahara Vocational School
+
+- 🏐 Chairperson of Sepak Takraw
+- 🍲 Active Member of the Home Economics Club
+- 🚑 Member of the St. John Ambulance Malaysia Committee
+- 🥇 First Place in the St. John Ambulance Malaysia Footdrill Competition (National Level)
+- 🏅 Malaysia Future Leader School (MFLS) Certificate
+
+## Melaka Matriculation College
+
+- 💻 Chairperson of the Computer Club
+- 🌿 Assistant Secretary for the EPIC BEAUTY OF NATURE Competition
+- 🧮 Mathematics Peer Assisted Learning (PAL) Leader
+- 🤝 KAKOM Volunteer
+- 🔬 Physics Peer Assisted Learning (PAL) Leader
+
+<br/> 
+
+## 💪 Skills
+
+- **English:** ★★★★☆ (4 stars) 🌐
+- **Bahasa Malaysia:** ★★★★☆ (4 stars) 
+- **Mandarin:** ★★★★★ (5 stars)
+
+<br/> 
+
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=lauyeewen123&&style=flat-square)
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lauyeewen123&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/lauyeewen123" target="_blank">
@@ -59,72 +111,6 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lauyeewen123&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-## Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=lauyeewen123&&style=flat-square)
-<br/>  
-
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-## Education
-
-### Secondary Education: Datuk Bendahara Vocational School (2017-2022)
-
-- **SPM 2021:** 9A (4A+, 4A, 1A-), 1B+
-- **CEFR Level:** C1
-
-### College Studies: Melaka Matriculation College (2022-2023)
-
-- **CGPA:** 4.0
-- **MUET Level:** Level 4.0
-
-## Co-curricular Involvement
-
-### Datuk Bendahara Vocational School
-
-- Chairperson of Sepak Takraw
-- Active Member of the Home Economics Club
-- Member of the St. John Ambulance Malaysia Committee
-- First Place in the St. John Ambulance Malaysia Footdrill Competition (National Level)
-- Malaysia Future Leader School (MFLS) Certificate
-
-### Melaka Matriculation College
-
-- Chairperson of the Computer Club
-- Assistant Secretary for the EPIC BEAUTY OF NATURE Competition
-- Mathematics Peer Assisted Learning (PAL) Leader
-- KAKOM Volunteer
-- Physics Peer Assisted Learning (PAL) Leader
-
-## Skills
-
-- **English:** ★★★★☆ (4 stars)
-- **Bahasa Malaysia:** ★★★★☆ (4 stars)
-- **Mandarin:** ★★★★★ (5 stars)
-
-
-
-
 </body>
 
 </html>
