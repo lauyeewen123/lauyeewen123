@@ -17,6 +17,12 @@
 - 🔍 Interested in the intersection of technology, data, and problem-solving
 - ⚡ Fun fact: People call me mushroom 🍄; I love a sweet treat to perk me up 🍪🧋🍰🍫
 - 📧 Reach me at [lauyeewen@graduate.utm.my](mailto:lauyeewen@graduate.utm.my)
+
+<br/>
+
+## My E-Portfolio
+Check out [here](https://lauyeewen123.github.io/) !!
+
   
   
 
