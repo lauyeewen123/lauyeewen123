@@ -48,12 +48,12 @@
 
 ## 📘 Education
 
-## Secondary Education: Datuk Bendahara Vocational School (2017-2022)
+<h4> Secondary Education: Datuk Bendahara Vocational School (2017-2022) </h4>
 
 - **SPM 2021:** 9A (4A+, 4A, 1A-), 1B+
 - **CEFR Level:** C1
 
-## College Studies: Melaka Matriculation College (2022-2023)
+<h4> College Studies: Melaka Matriculation College (2022-2023)</h4>
 
 - **CGPA:** 4.0
 - **MUET Level:** Level 4.0
@@ -62,7 +62,7 @@
 
 ## 🚀 Co-curricular Involvement
 
-## Datuk Bendahara Vocational School
+<h4> SMK Datuk Bendahara</h4>
 
 - 🏐 Chairperson of Sepak Takraw
 - 🍲 Active Member of the Home Economics Club
@@ -70,7 +70,7 @@
 - 🥇 First Place in the St. John Ambulance Malaysia Footdrill Competition (National Level)
 - 🏅 Malaysia Future Leader School (MFLS) Certificate
 
-## Melaka Matriculation College
+ <h4>Melaka Matriculation College</h4>
 
 - 💻 Chairperson of the Computer Club
 - 🌿 Assistant Secretary for the EPIC BEAUTY OF NATURE Competition
