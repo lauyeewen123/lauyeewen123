@@ -48,7 +48,7 @@
 
 ## 📘 Education
 
-<h4> Secondary Education: Datuk Bendahara Vocational School (2017-2022) </h4>
+<h4> Secondary Education: SMK Datuk Bendahara  (2017-2022) </h4>
 
 - **SPM 2021:** 9A (4A+, 4A, 1A-), 1B+
 - **CEFR Level:** C1
