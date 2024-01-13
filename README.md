@@ -1,4 +1,4 @@
-# <div align="center">Welcome Everyone!!! 🤗😎</div>  
+# <div align="center">Welcome to My Profile! 🌟</div>  
   
 
 <div align="center">
@@ -9,24 +9,14 @@
 #### <div align="center">I'm Yee Wen, a first-year student studying in Bachelor of Computer Science in Data Engineering   👨‍💻 🚀😆</div>  
   
 
-🔍 About me:          
+## About me :          
 
-- 🗓️ 14/12/2004  
-  
-
--  🌻 I'm a passionate first-year data engineering student with a curiosity for turning raw data into meaningful insights.   
-  
-
-- 🌱 I’m currently learning C++ Programming Languages  
-  
-
-- 🔭 I am excited about the intersection of technology, data, and problem-solving.  
-  
-
-- ⚡ Fun fact: People called me mushroom🍄 
-I could use a little something sweet to perk me up 🍪🧋🍰🍫
-
-- 📫 How to reach me **lauyeewen@graduate.utm.my**
+- 📅 Born on December 14, 2004
+- 🌸 Passionate about turning raw data into meaningful insights
+- 🌱 Currently learning C++ Programming
+- 🔍 Interested in the intersection of technology, data, and problem-solving
+- ⚡ Fun fact: People call me mushroom 🍄; I love a sweet treat to perk me up 🍪🧋🍰🍫
+- 📧 Reach me at [lauyeewen@graduate.utm.my](mailto:lauyeewen@graduate.utm.my)
   
   
 
@@ -84,52 +74,17 @@ I could use a little something sweet to perk me up 🍪🧋🍰🍫
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
+## Profile Views
 
+![Profile Views](https://komarev.com/ghpvc/?username=lauyeewen123&&style=flat-square)
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=lauyeewen123&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>  
-
-<br/>  
 
 
 <br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-   
-
-
-
-
-
-
-<!--
-**lauyeewen123/lauyeewen123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 ## Education
 
