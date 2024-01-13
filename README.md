@@ -21,10 +21,7 @@
 <br/>
 
 ## My E-Portfolio
-Check out [here](https://lauyeewen123.github.io/) !!
-
-  
-  
+Check it out [here](https://lauyeewen123.github.io/)!!
 
 <br/>  
 
