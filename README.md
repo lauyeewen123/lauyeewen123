@@ -6,7 +6,7 @@
 </div>  
   
 
-#### <div align="center">I'm Yee Wen, a first-year student studying in Bachelor of Computer Science in Data Engineering   👨‍💻 🚀😆</div>  
+#### <div align="center">I'm Yee Wen, a third-year student studying in Bachelor of Computer Science in Data Engineering   👨‍💻 🚀😆</div>  
   
 
 ## About me :          
