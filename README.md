@@ -48,11 +48,9 @@ Check it out [here](https://lauyeewen123.github.io/)!!
 <br/>  
 
 
-
-
 ## 📘 Education
 
-<h4> University Teknologi Malaysia(UTM)  </h4>
+<h4> University Teknologi Malaysia (UTM)  </h4>
 
 - **Bachelor of Computer Science in Data Engineering**
 - **2023-Present**
@@ -66,18 +64,26 @@ Check it out [here](https://lauyeewen123.github.io/)!!
 
 ## 🚀 Co-curricular Involvement
 
- <h4>Kolej Matrikulasi Melaka</h4>
+ <h4> University Teknologi Malaysia (UTM)  </h4>
 
-- 💻 Chairperson of the Computer Club
-- 🧮 Mathematics Peer Assisted Learning (PAL) Leader
-- 🤝 KAKOM Volunteer
-- 🔬 Physics Peer Assisted Learning (PAL) Leader
+### 🎓 Universiti Teknologi Malaysia (UTM)
+- 📝 **Secretary**  
+  *Jawatankuasa Pelajar Kolej Tun Dr Ismail (JKP KTDI)*
+
+- 🎨 **Multimedia Unit Member**  
+  *KEJORA’25 (Kenyalang Journey Awaits) — Sarawak*
+
+### 🏫 Kolej Matrikulasi Melaka
+- 👩‍💼 **Chairperson** — Computer Club  
+- 📊 **Mathematics Peer Assisted Learning (PAL) Leader**  
+- 🤝 **KAKOM Volunteer**  
+- ⚛️ **Physics Peer Assisted Learning (PAL) Leader**
 
 <br/> 
 
 ## 💪 Skills
 
-- **English:** ★★★★☆ (4 stars) 🌐
+- **English:** ★★★★☆ (4 stars) 
 - **Bahasa Malaysia:** ★★★★☆ (4 stars) 
 - **Mandarin:** ★★★★★ (5 stars)
 
