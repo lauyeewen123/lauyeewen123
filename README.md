@@ -61,7 +61,7 @@ Check it out [here](https://lauyeewen123.github.io/)!!
 - **Bachelor of Computer Science in Data Engineering**
 - **2023-Present**
 
-<h4> College Studies: *Kolej Matrikulasi Melaka* (2022-2023)</h4>
+<h4> College Studies: Kolej Matrikulasi Melaka (2022-2023)</h4>
 
 - **CGPA:** 4.0
 - **MUET Level:** Level 4.0
