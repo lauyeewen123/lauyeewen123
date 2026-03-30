@@ -54,10 +54,10 @@ Check it out [here](https://lauyeewen123.github.io/)!!
 
 ## 📘 Education
 
-<h4> Secondary Education: SMK Datuk Bendahara  (2017-2022) </h4>
+<h4> University Teknologi Malaysia(UTM)  </h4>
 
-- **SPM 2021:** 9A (4A+, 4A, 1A-), 1B+
-- **CEFR Level:** C1
+- **Bachelor of Computer Science in Data Engineering**
+- **2023-Present**
 
 <h4> College Studies: Melaka Matriculation College (2022-2023)</h4>
 
