@@ -11,11 +11,9 @@
 
 ## About me :          
 
-- 📅 Born on December 14, 2004
-- 🌸 Passionate about turning raw data into meaningful insights
-- 🌱 Currently learning C++ Programming
-- 🔍 Interested in the intersection of technology, data, and problem-solving
-- ⚡ Fun fact: People call me mushroom 🍄; I love a sweet treat to perk me up 🍪🧋🍰🍫
+- 🌍 Born in **Jasin, Melaka**
+- 🧠 Interested in **Machine Learning, AI Development, and Data Engineering**
+- 🎬 Hobbies: Watching movies, diving, and sleeping 😆
 - 📧 Reach me at [lauyeewen@graduate.utm.my](mailto:lauyeewen@graduate.utm.my)
 
 <br/>
@@ -68,18 +66,9 @@ Check it out [here](https://lauyeewen123.github.io/)!!
 
 ## 🚀 Co-curricular Involvement
 
-<h4> SMK Datuk Bendahara</h4>
-
-- 🏐 Chairperson of Sepak Takraw
-- 🍲 Active Member of the Home Economics Club
-- 🚑 Member of the St. John Ambulance Malaysia Committee
-- 🥇 First Place in the St. John Ambulance Malaysia Footdrill Competition (National Level)
-- 🏅 Malaysia Future Leader School (MFLS) Certificate
-
- <h4>Melaka Matriculation College</h4>
+ <h4>Kolej Matrikulasi Melaka</h4>
 
 - 💻 Chairperson of the Computer Club
-- 🌿 Assistant Secretary for the EPIC BEAUTY OF NATURE Competition
 - 🧮 Mathematics Peer Assisted Learning (PAL) Leader
 - 🤝 KAKOM Volunteer
 - 🔬 Physics Peer Assisted Learning (PAL) Leader
