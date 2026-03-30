@@ -69,7 +69,7 @@ Check it out [here](https://lauyeewen123.github.io/)!!
   *Jawatankuasa Pelajar Kolej Tun Dr Ismail (JKP KTDI)*
 
 - 🎨 **Multimedia Unit Member**  
-  *KEJORA’25 (Kenyalang Journey Awaits) — Sarawak*
+  *Top Bidder Program- KEJORA’25 (Kenyalang Journey Awaits) — Sarawak*
 
 #### Kolej Matrikulasi Melaka
 - 👩‍💼 **Chairperson** — Computer Club  
