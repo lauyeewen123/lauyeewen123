@@ -96,12 +96,11 @@ English 🇬🇧 | Mandarin 🇨🇳 | Malay 🇲🇾 | French 🇫🇷 (learnin
 
 
 ## Github Status
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lauyeewen123&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>
-
 <div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauyeewen123&layout=compact&theme=vue&show_icons=true&hide_border=false)
+  <img src="https://github-readme-stats.vercel.app/api?username=lauyeewen123&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=lauyeewen123&locale=en&mode=weekly&theme=prussian&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+<br/>
 
 ## Connect with me  
 <div align="center">
