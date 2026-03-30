@@ -64,16 +64,14 @@ Check it out [here](https://lauyeewen123.github.io/)!!
 
 ## 🚀 Co-curricular Involvement
 
- <h4> University Teknologi Malaysia (UTM)  </h4>
-
-### 🎓 Universiti Teknologi Malaysia (UTM)
+#### Universiti Teknologi Malaysia (UTM)
 - 📝 **Secretary**  
   *Jawatankuasa Pelajar Kolej Tun Dr Ismail (JKP KTDI)*
 
 - 🎨 **Multimedia Unit Member**  
   *KEJORA’25 (Kenyalang Journey Awaits) — Sarawak*
 
-### 🏫 Kolej Matrikulasi Melaka
+#### Kolej Matrikulasi Melaka
 - 👩‍💼 **Chairperson** — Computer Club  
 - 📊 **Mathematics Peer Assisted Learning (PAL) Leader**  
 - 🤝 **KAKOM Volunteer**  
