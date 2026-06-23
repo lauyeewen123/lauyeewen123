@@ -39,63 +39,60 @@ Through academic projects and hands-on learning, I have gained experience in **A
 ---
 ## 🚀 Featured Projects
 
-### 📱 TVETMARA Student Attendance Management System
+### 📱 [TVETMARA Student Attendance Management System](YOUR_LINK)
+
 **Flutter • Firebase • Firestore**
 
-Mobile attendance management system supporting student records, attendance tracking, timetable management, discipline reporting, and user administration.
+Mobile attendance management system designed for educational institutions, supporting attendance tracking, timetable management, discipline reporting, and role-based user administration.
 
-**Key Features**
+**Highlights**
 - Attendance Tracking
 - Timetable Management
 - Discipline Reporting
 - Role-Based Access Control
 
-🔗 View Project
-
 ---
 
-### 📊 PPG Recoverable Assets & Inventory Risk Management
+### 📊 [PPG Recoverable Assets & Inventory Risk Management](YOUR_LINK)
+
 **Azure Synapse Analytics • SQL • Power BI**
 
-Industry-oriented analytics project focused on inventory health monitoring, recoverable assets, stock shortages, dead stock identification, and operational risk management.
+Industry-oriented business intelligence project focused on inventory health monitoring, recoverable assets, dead stock identification, stock shortages, and customer impact analysis.
 
-**Key Features**
+**Highlights**
 - Inventory Analytics
 - Risk Assessment
-- Data Modelling
-- Business Intelligence Dashboard
-
-🔗 View Project
+- Data Warehouse Design
+- Interactive Power BI Dashboards
 
 ---
 
-### 🌐 KADA eServe
+### 🌐 [KADA eServe](YOUR_LINK)
+
 **PHP • MySQL • Web Development**
 
-Web-based cooperative management system supporting member registration, loan applications, financial statements, reporting, and administrative workflows.
+Web-based cooperative management system supporting member registration, loan applications, financial reporting, and administrative workflows.
 
-**Key Features**
+**Highlights**
 - Member Registration
 - Loan Management
 - Financial Reporting
 - Administrative Dashboard
 
-🔗 View Project
-
 ---
 
-### ⚡ Data Processing Optimization Project
+### ⚡ [Data Processing Optimization Project](YOUR_LINK)
+
 **Python • Pandas • Polars • DuckDB**
 
 High-performance data processing project involving large-scale data cleaning, transformation, optimization, and analytics workflow enhancement.
 
-**Key Features**
+**Highlights**
 - Data Cleaning
 - Performance Optimization
 - Large Dataset Processing
 - Analytical Workflow Design
 
-🔗 View Project
 ---
 
 ## 📚 Academic Portfolio
