@@ -37,61 +37,80 @@ Through academic projects and hands-on learning, I have gained experience in **A
 - 📧 yeewen1214@gmail.com
 
 ---
-
 ## 🚀 Featured Projects
-
-### 📊 PPG Recoverable Assets & Inventory Risk Management
-**Azure Synapse Analytics • Azure Data Lake • SQL • Power BI**
-
-Developed a cloud-based business intelligence solution to identify inventory risks, including recoverable assets, dead stock, expired materials, stock shortages, and customer order impacts. Designed a Galaxy Schema and built analytical dashboards to support data-driven decision making.
-
-🔗 **View Project:** Coming Soon
-
----
 
 ### 📱 TVETMARA Student Attendance Management System
 **Flutter • Firebase • Firestore**
 
-Developed a role-based attendance and discipline management system for educational institutions. Features include attendance tracking, timetable management, attendance analytics, and reporting functions.
+Mobile attendance management system supporting student records, attendance tracking, timetable management, discipline reporting, and user administration.
 
-🔗 **View Project:** Coming Soon
+**Key Features**
+- Attendance Tracking
+- Timetable Management
+- Discipline Reporting
+- Role-Based Access Control
 
----
-
-### 🤖 AI-Assisted Data Quality Pipeline
-**Apache Airflow • Python • AI Agent**
-
-Built an automated data quality pipeline integrating AI-assisted validation with Apache Airflow orchestration. The workflow detects data quality issues, generates reports, and performs automated data cleansing processes.
-
-🔗 **View Project:** Coming Soon
+🔗 View Project
 
 ---
 
-### 📈 Malaysian Job Market Analytics
+### 📊 PPG Recoverable Assets & Inventory Risk Management
+**Azure Synapse Analytics • SQL • Power BI**
+
+Industry-oriented analytics project focused on inventory health monitoring, recoverable assets, stock shortages, dead stock identification, and operational risk management.
+
+**Key Features**
+- Inventory Analytics
+- Risk Assessment
+- Data Modelling
+- Business Intelligence Dashboard
+
+🔗 View Project
+
+---
+
+### 🌐 KADA eServe
+**PHP • MySQL • Web Development**
+
+Web-based cooperative management system supporting member registration, loan applications, financial statements, reporting, and administrative workflows.
+
+**Key Features**
+- Member Registration
+- Loan Management
+- Financial Reporting
+- Administrative Dashboard
+
+🔗 View Project
+
+---
+
+### ⚡ Data Processing Optimization Project
 **Python • Pandas • Polars • DuckDB**
 
-Analysed Malaysian job market trends using large-scale web-scraped datasets. Applied data processing and optimization techniques using Pandas, Polars, and DuckDB to improve analytical performance.
+High-performance data processing project involving large-scale data cleaning, transformation, optimization, and analytics workflow enhancement.
 
-🔗 **View Project:** Coming Soon
+**Key Features**
+- Data Cleaning
+- Performance Optimization
+- Large Dataset Processing
+- Analytical Workflow Design
 
+🔗 View Project
 ---
 
 ## 📚 Academic Portfolio
 
-This portfolio showcases selected coursework, tutorials, assignments, reports, projects, source code, and technical reflections from my journey as a Data Engineering student at Universiti Teknologi Malaysia.
+Selected coursework, tutorials, assignments, reports, and hands-on projects covering:
 
-### Areas Covered
+- Data Engineering
+- Cloud Computing (Azure)
+- Big Data Processing (Apache Spark)
+- Workflow Orchestration (Apache Airflow)
+- Artificial Intelligence
+- Database Systems
+- Data Analytics & Visualization
 
-- 📊 Data Analytics & Visualization
-- 🏗️ Data Engineering
-- ☁️ Cloud Computing
-- 🤖 Artificial Intelligence & Machine Learning
-- 🗄️ Database Systems
-- 📱 Application Development
-- 💻 Programming & Software Engineering
-
-🌐 **Portfolio Website:**  
-https://lauyeewen123.github.io/
+🌐 View Full Portfolio: https://lauyeewen123.github.io/
 
 ---
 
@@ -147,13 +166,6 @@ Jawatankuasa Pelajar Kolej Tun Dr Ismail (JKP KTDI)
 
 🎨 **Multimedia Unit Member**  
 KEJORA'25 (Kenyalang Journey Awaits) Programme
-
-### Kolej Matrikulasi Melaka
-
-- 👩‍💼 Chairperson, Computer Club
-- 📊 Mathematics PAL Leader
-- ⚛️ Physics PAL Leader
-- 🤝 KAKOM Volunteer
 
 ---
 
