@@ -1,126 +1,210 @@
-# <div align="center">Welcome to My Profile! 🌟</div>  
-  
-
 <div align="center">
-<img src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-224.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-#### <div align="center">I'm Yee Wen, a third-year student studying in Bachelor of Computer Science in Data Engineering   👨‍💻 🚀</div>  
-  
+# Hi, I'm Lau Yee Wen 👋
 
-## About me :          
+<img src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-224.gif" width="450">
 
-- 🌍 Born in **Jasin, Melaka**
-- 🧠 Interested in **Machine Learning, AI Development, and Data Engineering**
-- 🎬 Hobbies: Watching movies, diving, and sleeping 😆
-- 📧 Reach me at [yeewen1214@gmail.com](mailto:yeewen1214@gmail.com.my)
+</div>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=800&lines=Bachelor+of+Computer+Science+(Data+Engineering);Azure+%7C+SQL+%7C+Power+BI+%7C+Python;Passionate+About+Data+Engineering+and+Analytics;Building+Data-Driven+Solutions" />
+</p>
 
-## My E-Portfolio
-Check it out [here](https://lauyeewen123.github.io/)!!
+<p align="center">
+  <a href="https://lauyeewen123.github.io/">
+    <img src="https://img.shields.io/badge/🌐_E--Portfolio-Visit_Now-blue?style=for-the-badge">
+  </a>
+  <a href="mailto:yeewen1214@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Contact_Me-red?style=for-the-badge">
+  </a>
+</p>
 
-<br/>  
+---
+
+## 👩‍💻 About Me
+
+Hello! I'm **Lau Yee Wen**, a third-year **Bachelor of Computer Science (Data Engineering)** student at **Universiti Teknologi Malaysia (UTM)**.
+
+I am passionate about transforming raw data into meaningful insights through data engineering, analytics, and intelligent systems. My interests span across **Data Engineering, Business Intelligence, Artificial Intelligence, Cloud Computing, and Data Analytics**.
+
+Through academic projects and hands-on learning, I have gained experience in **Azure Cloud Services, SQL, Power BI, Python, Flutter, Firebase, Apache Airflow, and Data Warehousing**.
+
+- 🎓 Bachelor of Computer Science (Data Engineering), UTM
+- 📍 Jasin, Melaka, Malaysia
+- 🌱 Currently exploring AI-assisted Data Engineering and Cloud Analytics
+- 📊 Interested in Data Engineering, Business Intelligence & Machine Learning
+- 🎬 Enjoy movies, scuba diving, reading novels, and technology
+- 📧 yeewen1214@gmail.com
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 PPG Recoverable Assets & Inventory Risk Management
+**Azure Synapse Analytics • Azure Data Lake • SQL • Power BI**
+
+Developed a cloud-based business intelligence solution to identify inventory risks, including recoverable assets, dead stock, expired materials, stock shortages, and customer order impacts. Designed a Galaxy Schema and built analytical dashboards to support data-driven decision making.
+
+🔗 **View Project:** Coming Soon
+
+---
+
+### 📱 TVETMARA Student Attendance Management System
+**Flutter • Firebase • Firestore**
+
+Developed a role-based attendance and discipline management system for educational institutions. Features include attendance tracking, timetable management, attendance analytics, and reporting functions.
+
+🔗 **View Project:** Coming Soon
+
+---
+
+### 🤖 AI-Assisted Data Quality Pipeline
+**Apache Airflow • Python • AI Agent**
+
+Built an automated data quality pipeline integrating AI-assisted validation with Apache Airflow orchestration. The workflow detects data quality issues, generates reports, and performs automated data cleansing processes.
+
+🔗 **View Project:** Coming Soon
+
+---
+
+### 📈 Malaysian Job Market Analytics
+**Python • Pandas • Polars • DuckDB**
+
+Analysed Malaysian job market trends using large-scale web-scraped datasets. Applied data processing and optimization techniques using Pandas, Polars, and DuckDB to improve analytical performance.
+
+🔗 **View Project:** Coming Soon
+
+---
+
+## 📚 Academic Portfolio
+
+This portfolio showcases selected coursework, tutorials, assignments, reports, projects, source code, and technical reflections from my journey as a Data Engineering student at Universiti Teknologi Malaysia.
+
+### Areas Covered
+
+- 📊 Data Analytics & Visualization
+- 🏗️ Data Engineering
+- ☁️ Cloud Computing
+- 🤖 Artificial Intelligence & Machine Learning
+- 🗄️ Database Systems
+- 📱 Application Development
+- 💻 Programming & Software Engineering
+
+🌐 **Portfolio Website:**  
+https://lauyeewen123.github.io/
+
+---
 
 ## 💻 Tech Stack
 
-### 🔤 Languages
+### Programming Languages
+
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
----
+### Data Engineering & Analytics
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 🛠️ Tools & Technologies
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-</td></tr></table>  
 
-<br/>  
+### Cloud & Data Platforms
 
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Synapse Analytics](https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-## 📘 Education
+### Development Tools
 
-<h4> Universiti Teknologi Malaysia (UTM)  </h4>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- **Bachelor of Computer Science in Data Engineering**
-- **2023-Present**
+---
 
-<h4> College Studies: Kolej Matrikulasi Melaka (2022-2023)</h4>
+## 🎓 Education
 
-- **CGPA:** 4.0
-- **MUET Level:** Level 4.0
-  
-<br/>  
+### Universiti Teknologi Malaysia (UTM)
+**Bachelor of Computer Science (Data Engineering)**  
+📅 2023 – Present
 
-## 🚀 Co-curricular Involvement
+### Kolej Matrikulasi Melaka
+- CGPA: **4.00**
+- MUET: **Band 4**
 
-#### Universiti Teknologi Malaysia (UTM)
-- 📝 **Secretary**  
-  *Jawatankuasa Pelajar Kolej Tun Dr Ismail (JKP KTDI)*
+---
 
-- 🎨 **Multimedia Unit Member**  
-  *Top Bidder Program- KEJORA’25 (Kenyalang Journey Awaits) — Sarawak*
+## 🌟 Leadership & Involvement
 
-#### Kolej Matrikulasi Melaka
-- 👩‍💼 **Chairperson** — Computer Club  
-- 📊 **Mathematics Peer Assisted Learning (PAL) Leader**  
-- 🤝 **KAKOM Volunteer**  
-- ⚛️ **Physics Peer Assisted Learning (PAL) Leader**
+### Universiti Teknologi Malaysia
 
-<br/> 
+📝 **Secretary**  
+Jawatankuasa Pelajar Kolej Tun Dr Ismail (JKP KTDI)
 
-### 🌍 Languages (Human)
-English 🇬🇧 | Mandarin 🇨🇳 | Malay 🇲🇾 | French 🇫🇷 (learning)
+🎨 **Multimedia Unit Member**  
+KEJORA'25 (Kenyalang Journey Awaits) Programme
 
-<br/> 
+### Kolej Matrikulasi Melaka
 
-## Profile Views
+- 👩‍💼 Chairperson, Computer Club
+- 📊 Mathematics PAL Leader
+- ⚛️ Physics PAL Leader
+- 🤝 KAKOM Volunteer
 
-![Profile Views](https://komarev.com/ghpvc/?username=lauyeewen123&&style=flat-square)
+---
 
+## 🌍 Languages
 
-## Github Status
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lauyeewen123&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=lauyeewen123&locale=en&mode=weekly&theme=prussian&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-<br/>
+🇬🇧 English  
+🇨🇳 Mandarin  
+🇲🇾 Malay  
+🇫🇷 French (Learning)
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/lauyeewen123" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/_yeewennnn_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/Yee Wen Lau" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/lau-yee-wen-068b5a299/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-</body>
+---
 
-</html>
+## 📊 GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lauyeewen123&show_icons=true&theme=prussian" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=lauyeewen123&theme=prussian" height="170"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauyeewen123&layout=compact&theme=prussian" height="170"/>
+</p>
 
+---
 
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lauyeewen123&style=for-the-badge">
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/lauyeewen123">
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/lau-yee-wen-068b5a299/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://instagram.com/_yeewennnn_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
+
+---
+
+<p align="center">
+✨ Thank you for visiting my profile! ✨
+</p>
