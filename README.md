@@ -53,7 +53,7 @@ Mobile-based attendance and discipline management system supporting attendance t
 
 ---
 
-### 📊 [PPG Recoverable Assets & Inventory Risk Management](https://github.com/lauyeewen123/UTM_CourseWork/tree/main/Year%203/Sem%202/SPECIAL%20TOPIC%20IN%20DATA%20ENGINEERING/Assignment/PPG%20Project)
+### 📊 [PPG Recoverable Assets & Inventory Risk Management](https://github.com/lauyeewen123/UTM_CourseWork/tree/main/Year%203/Sem%202/SPECIAL%20TOPIC%20IN%20DATA%20ENGINEERING/PPG%20Project)
 
 **Azure Synapse Analytics • SQL • Power BI**
 
