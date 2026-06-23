@@ -39,7 +39,7 @@ Through academic projects and hands-on learning, I have gained experience in **A
 ---
 ## 🚀 Featured Projects
 
-### 📱 [TVETMARA Student Attendance Management System](YOUR_LINK)
+### 📱 [TVETMARA Student Attendance Management System](https://github.com/lauyeewen123/UTM_CourseWork/tree/main/Year%203/Sem%202/APPLICATION%20DEVELOPMENT/Project)
 
 **Flutter • Firebase • Firestore**
 
