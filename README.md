@@ -39,11 +39,11 @@ Through academic projects and hands-on learning, I have gained experience in **A
 ---
 ## 🚀 Featured Projects
 
-### 📱 [TVETMARA Student Attendance Management System](https://github.com/lauyeewen123/UTM_CourseWork/tree/main/Year%203/Sem%202/APPLICATION%20DEVELOPMENT/Project)
+### 📱 [TVETMARA Student Attendance Management System](https://github.com/leeyinshen0818/TVETMARA-Student-Attendance-Management-System)
 
 **Flutter • Firebase • Firestore**
 
-Mobile attendance management system designed for educational institutions, supporting attendance tracking, timetable management, discipline reporting, and role-based user administration.
+Mobile-based attendance and discipline management system supporting attendance tracking, timetable management, reporting, and role-based user administration.
 
 **Highlights**
 - Attendance Tracking
@@ -53,21 +53,21 @@ Mobile attendance management system designed for educational institutions, suppo
 
 ---
 
-### 📊 [PPG Recoverable Assets & Inventory Risk Management](YOUR_LINK)
+### 📊 [PPG Recoverable Assets & Inventory Risk Management](https://github.com/lauyeewen123/UTM_CourseWork/tree/main/Year%203/Sem%202/SPECIAL%20TOPIC%20IN%20DATA%20ENGINEERING/Assignment/PPG%20Project)
 
 **Azure Synapse Analytics • SQL • Power BI**
 
 Industry-oriented business intelligence project focused on inventory health monitoring, recoverable assets, dead stock identification, stock shortages, and customer impact analysis.
 
 **Highlights**
-- Inventory Analytics
-- Risk Assessment
+- Azure Synapse Analytics
 - Data Warehouse Design
+- Inventory Risk Analytics
 - Interactive Power BI Dashboards
 
 ---
 
-### 🌐 [KADA eServe](YOUR_LINK)
+### 🌐 [KADA eServe](https://github.com/lauyeewen123/UTM_CourseWork/tree/main/Year%202/Sem%201/SYSTEM%20DEVELOPMENT%20TECHNOLOGY/KADA%20Project)
 
 **PHP • MySQL • Web Development**
 
@@ -77,22 +77,21 @@ Web-based cooperative management system supporting member registration, loan app
 - Member Registration
 - Loan Management
 - Financial Reporting
-- Administrative Dashboard
+- Database Design
 
 ---
 
-### ⚡ [Data Processing Optimization Project](YOUR_LINK)
+### ⚡ [Data Processing Optimization Project](https://github.com/lauyeewen123/UTM_CourseWork/tree/main/Year%203/Sem%202/HIGH%20PERFORMANCE%20DATA%20PROCESSING/Project%201)
 
 **Python • Pandas • Polars • DuckDB**
 
 High-performance data processing project involving large-scale data cleaning, transformation, optimization, and analytics workflow enhancement.
 
 **Highlights**
+- Web Scraping
 - Data Cleaning
 - Performance Optimization
 - Large Dataset Processing
-- Analytical Workflow Design
-
 ---
 
 ## 📚 Academic Portfolio
